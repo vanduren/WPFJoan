@@ -8,5 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBlock>Hallo Joan!!</TextBlock>
+        <TextBlock>Hallo Tim!!</TextBlock>
+            
     </Grid>
 </Window>
